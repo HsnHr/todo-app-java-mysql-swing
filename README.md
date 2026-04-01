@@ -32,3 +32,20 @@ CREATE TABLE gorevler (
     tamamlandi BOOLEAN DEFAULT FALSE,
     tarih TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+
+
+How to Run
+Create the todo_app database in MySQL.
+Create the gorevler table.
+Update database username and password in Database.java.
+Add MySQL Connector/J to the project.
+Run GUI.java.
+Purpose
+
+This project was developed to practice:
+
+Java GUI development
+Database connectivity with JDBC
+CRUD operations
+Desktop application design
